@@ -1,1 +1,1 @@
-# RNZhotel.github.io
+# RZNhotel.github.io
